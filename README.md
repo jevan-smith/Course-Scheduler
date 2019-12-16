@@ -1,5 +1,6 @@
 
 ![demo gif1](sample.gif)
+
 [Demo](https://jevan1000.github.io/Course-Scheduler/)
 
 ## Installation
