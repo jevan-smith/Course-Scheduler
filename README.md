@@ -1,4 +1,6 @@
+
 ![demo gif1](sample.gif)
+[Demo](https://jevan1000.github.io/Course-Scheduler/)
 
 ## Installation
 Everything is provided simply open "index.html" and everything should
