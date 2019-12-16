@@ -16,4 +16,4 @@ Requires the following packages: (included)
 - underscore-min.js
 - moment.js
 
-Note: These are included inside "includes" folder. 
+Note: These are included inside the "includes" folder. 
