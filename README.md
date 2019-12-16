@@ -1,5 +1,4 @@
-## Authors
-Jevan Smith, Christian Havranek, Dillon Ireland
+![demo gif1](sample.gif)
 
 ## Installation
 Everything is provided simply open "index.html" and everything should
@@ -15,7 +14,3 @@ Requires the following packages: (included)
 - moment.js
 
 Note: These are included inside "includes" folder. 
-
-## Known Issues
-- Courses dragged outside of the grid area will cause issues when moved back into the scheduler.
-- Courses that stack above 3 will cause undesirable issues.
